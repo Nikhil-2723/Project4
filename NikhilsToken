@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract HardHat {
+contract Niks_Token {
     string public my_token;
     uint256 private total_Supply;
     mapping(address => uint256) private _balances;
